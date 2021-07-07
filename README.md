@@ -1,6 +1,6 @@
 # GRU-GBM
 
-Each of "GRUGBM_UNSWNB15***" files produce specific result according to proposed/compared method.
+Each of "GRUGBM_UNSWNB15***" files produceS specific result according to proposed/compared method.
 
 Before running each notebook, training and testing csv file should be extracted.
 
